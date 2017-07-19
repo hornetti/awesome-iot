@@ -295,12 +295,29 @@ creates and maintains specifications, ensures compliance with OPC specifications
 
 ### Dashboard
 
-<img width="50" src="http://reichertbrothers.com/images/qt-logo.png"/> - [Qt](https://www.qt.io/) - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-<img width="50" src="http://electric-cloud.com/wp-content/uploads/2015/02/dashing-plugin-community.gif"/> - [Dashing](http://dashing.io/) - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-<img width="50" src="https://www.totaljs.com/img/logo-totaljs.png"/> - [Total.js](https://www.totaljs.com/dashboard/) - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-<img width="50" src="https://d388w23p6r1vqc.cloudfront.net/img/startups/11713/logo-1456904217.png"/> - [RazorFlow](https://razorflow.com/) - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-<img width="50" src="http://d24wuq6o951i2g.cloudfront.net/img/events/id/266/2665739/assets/77e.grafana.png"/> - [Grafana](https://grafana.com/) - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-<img width="50" src="https://pbs.twimg.com/profile_images/538262176134221824/Vx4_Psj1_400x400.png"/> - [Highcharts](https://www.highcharts.com/) - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+#### <img width="50" src="http://reichertbrothers.com/images/qt-logo.png"/>[Qt](https://www.qt.io/)
+
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+#### <img width="50" src="http://electric-cloud.com/wp-content/uploads/2015/02/dashing-plugin-community.gif"/> - [Dashing](http://dashing.io/)
+
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+#### <img width="50" src="https://www.totaljs.com/img/logo-totaljs.png"/> - [Total.js](https://www.totaljs.com/dashboard/)
+
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+#### <img width="50" src="https://d388w23p6r1vqc.cloudfront.net/img/startups/11713/logo-1456904217.png"/> - [RazorFlow](https://razorflow.com/)
+
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+#### <img width="50" src="http://d24wuq6o951i2g.cloudfront.net/img/events/id/266/2665739/assets/77e.grafana.png"/> - [Grafana](https://grafana.com/)
+
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+#### <img width="50" src="https://pbs.twimg.com/profile_images/538262176134221824/Vx4_Psj1_400x400.png"/> - [Highcharts](https://www.highcharts.com/)
+
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 ### Data Viz
 
