@@ -319,7 +319,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-### Data Viz
+### Data Visualization
 
 #### <img width="50" src="https://avatars3.githubusercontent.com/u/1562726?v=4&s=400"/> - [d3.js](https://d3js.org/)
 
