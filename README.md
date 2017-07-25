@@ -7,7 +7,7 @@
 
 > A curated list of awesome Internet of Things projects and resources.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing and [HQarroum](https://github.com/HQarroum/awesome-iot) awesome list.
 
 ## Table of Contents
 
