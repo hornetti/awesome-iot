@@ -291,7 +291,7 @@ creates and maintains specifications, ensures compliance with OPC specifications
 - [Z-Wave Alliance](http://z-wavealliance.org/) - Established in 2005, the Z-Wave Alliance is comprised of industry leaders throughout the globe that are dedicated to the development and extension of Z-Wave as the key enabling technology for 'smart' home and business applications.
 
 
-## Dashboard and Data Visualization
+## Dashboard and DataVisualization
 
 ### Dashboard
 
