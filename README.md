@@ -22,7 +22,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Protocols and Networks](#protocols-and-networks)
 - [Technologies](#technologies)
 - [Standards and Alliances](#standards-and-alliances)
-- [Dashboard and Data Visualization](#dashboard-and-datavisualization)
+- [Dashboard and DataVisualization](#dashboard-and-datavisualization)
 - [Resources](#resources)
   - [Books](#books)
   - [Articles](#articles)
