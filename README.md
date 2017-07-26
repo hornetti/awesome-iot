@@ -1,6 +1,5 @@
 # Awesome IoT
 
-<!-- <img src="img/ideato.png" align="right" width="75px"> -->
 <img src="img/iot.png" align="right" width="75px">
 
 > A curated list of awesome Internet of Things projects and resources.
