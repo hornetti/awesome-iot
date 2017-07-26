@@ -312,7 +312,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 A real-time interactive dashboard and visualization creator implementing an intuitive drag & drop interface.
 
-## Data Visualization
+## DataVisualization
 
 #### <img width="40px" src="https://avatars3.githubusercontent.com/u/1562726?v=4&s=400"/> - [d3.js](https://d3js.org/)
 
