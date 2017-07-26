@@ -319,11 +319,11 @@ A real-time interactive dashboard and visualization creator implementing an intu
 
 #### <img width="40px" src="https://avatars3.githubusercontent.com/u/1562726?v=4&s=400"/> - [d3.js](https://d3js.org/)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+D3.js (or just D3 for Data-Driven Documents) is a JavaScript library for producing dynamic, interactive data visualizations in web browsers. It makes use of the widely implemented SVG, HTML5, and CSS standards.
 
 #### <img width="40px" src="https://avatars3.githubusercontent.com/u/584619?v=3&s=400"/> - [Flot](http://www.flotcharts.org/)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Flot is a pure JavaScript plotting library for jQuery, with a focus on simple usage, attractive looks and interactive features.
 
 #### <img width="40px" src="https://pbs.twimg.com/profile_images/429245757388902400/pptlXTHN_400x400.png"/> - [amCharts](https://www.amcharts.com/)
 
@@ -331,11 +331,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 #### <img width="40px" src="http://dandouglas.net/wp-content/uploads/2014/05/raphael.png"/> - [Raphael](http://dmitrybaranovskiy.github.io/raphael/)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Raphaël is a small JavaScript library that should simplify your work with vector graphics on the web. It uses the SVG W3C Recommendation and VML as a base for creating graphics.
 
 #### <img width="40px" src="http://www.chartjs.org/img/chartjs-logo.svg"/> - [Chart.js](http://www.chartjs.org/)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Simple, clean and engaging HTML5 based JavaScript charts. Chart.js is an easy way to include animated, interactive graphs on your website for free.
 
 #### <img width="40px" src="https://www.worldoweb.co.uk/wp-content/uploads/google_charts.jpg"/> - [Google Charts](https://developers.google.com/chart/)
 
