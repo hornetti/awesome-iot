@@ -16,7 +16,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing an
   - [Frameworks](#frameworks)
   - [Middlewares](#middlewares)
   - [Libraries and Tools](#libraries-and-tools)
-  - [Miscellaneous](#miscellaneous)
 - [Protocols and Networks](#protocols-and-networks)
 - [Technologies](#technologies)
 - [Standards and Alliances](#standards-and-alliances)
@@ -108,11 +107,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing an
  - [WiringPi](http://wiringpi.com/) - WiringPi is a GPIO access library written in C for the BCM2835 used in the Raspberry Pi.
  - [Node-RED](http://nodered.org/) - A visual tool for wiring the Internet of Things.
  - [SmartObject](https://github.com/PeterEB/smartobject) - A Smart Object Class that helps you with creating IPSO Smart Objects in your JavaScript applications. See also: IPSO Alliance [Technical Archive](http://www.ipso-alliance.org/ipso-community/resources/technical-archive/).
-
-#### Miscellaneous
-
- - [Amazon Dash](https://fresh.amazon.com/dash/) - Amazon Dash Button is a Wi-Fi connected device that reorders your favorite item with the press of a button.
- - [Freeboard](http://freeboard.io/) - A real-time interactive dashboard and visualization creator implementing an intuitive drag & drop interface.
 
 ## Protocols and Networks
 
@@ -316,6 +310,10 @@ Grafana is an open source metric analytics & visualization suite. It is most com
 #### <img width="40px" src="https://pbs.twimg.com/profile_images/538262176134221824/Vx4_Psj1_400x400.png"/> - [Highcharts](https://www.highcharts.com/)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+#### <img width="40px" src="https://avatars0.githubusercontent.com/u/5933884?v=4&s=400"/> - [Freeboard](http://freeboard.io/)
+
+A real-time interactive dashboard and visualization creator implementing an intuitive drag & drop interface.
 
 ### Data Visualization
 
