@@ -18,7 +18,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing an
 - [Protocols and Networks](#protocols-and-networks)
 - [Technologies](#technologies)
 - [Standards and Alliances](#standards-and-alliances)
-- [Dashboard and DataVisualization](#dashboard-and-datavisualization)
+- [Dashboard](#dashboard)
+- [DataVisualization](#datavisualization)
 - [Resources](#resources)
   - [Books](#books)
   - [Articles](#articles)
@@ -281,10 +282,7 @@ creates and maintains specifications, ensures compliance with OPC specifications
 - [Zigbee Alliance](http://www.zigbee.org/) - The ZigBee Alliance is an open, non-profit association of approximately 440px members driving development of innovative, reliable and easy-to-use ZigBee standards.
 - [Z-Wave Alliance](http://z-wavealliance.org/) - Established in 2005, the Z-Wave Alliance is comprised of industry leaders throughout the globe that are dedicated to the development and extension of Z-Wave as the key enabling technology for 'smart' home and business applications.
 
-
-## Dashboard and DataVisualization
-
-### Dashboard
+## Dashboard
 
 #### <img width="40px" src="http://reichertbrothers.com/images/qt-logo.png"/> - [Qt](https://www.qt.io/)
 
@@ -314,7 +312,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 A real-time interactive dashboard and visualization creator implementing an intuitive drag & drop interface.
 
-### Data Visualization
+## Data Visualization
 
 #### <img width="40px" src="https://avatars3.githubusercontent.com/u/1562726?v=4&s=400"/> - [d3.js](https://d3js.org/)
 
