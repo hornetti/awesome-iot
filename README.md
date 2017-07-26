@@ -297,7 +297,7 @@ creates and maintains specifications, ensures compliance with OPC specifications
 
 #### <img width="50" src="http://reichertbrothers.com/images/qt-logo.png"/> - [Qt](https://www.qt.io/)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Qt is a cross-platform application framework that is used for developing application software that can be run on various software and hardware platforms with little or no change in the underlying codebase, while still being a native application with native capabilities and speed.
 
 #### <img width="50" src="http://electric-cloud.com/wp-content/uploads/2015/02/dashing-plugin-community.gif"/> - [Dashing](http://dashing.io/)
 
@@ -305,15 +305,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 #### <img width="50" src="https://www.totaljs.com/img/logo-totaljs.png"/> - [Total.js](https://www.totaljs.com/dashboard/)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Total.js Dashboard is a unique solution, focused on effective management of multiple devices or applications in one screen for any user scenarios. It is an ideal solution for households, entrepreneurs, managers, police, firefighters, military, doctors, manufacturing companies, government agencies, carriers and others.
 
 #### <img width="50" src="https://d388w23p6r1vqc.cloudfront.net/img/startups/11713/logo-1456904217.png"/> - [RazorFlow](https://razorflow.com/)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Build interactive, mobile-friendly dashboards in PHP and JavaScript. Stop worrying about cross-browser quirks and use our easy and productive APIs to build complete, full-featured dashboards.
 
 #### <img width="50" src="http://d24wuq6o951i2g.cloudfront.net/img/events/id/266/2665739/assets/77e.grafana.png"/> - [Grafana](https://grafana.com/)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Grafana is an open source metric analytics & visualization suite. It is most commonly used for visualizing time series data for infrastructure and application analytics but many use it in other domains including industrial sensors, home automation, weather, and process control.
 
 #### <img width="50" src="https://pbs.twimg.com/profile_images/538262176134221824/Vx4_Psj1_400x400.png"/> - [Highcharts](https://www.highcharts.com/)
 
