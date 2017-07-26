@@ -198,7 +198,7 @@ Z-Wave is a wireless communications specification designed to allow devices in t
 
 ### Application layer
 
-#### [CoAP](http://coap.technology/) (IETF)
+#### <img width="40px" src="https://3yecy51kdipx3blyi37oute1-wpengine.netdna-ssl.com/wp-content/uploads/2016/12/coap.png" /> [CoAP](http://coap.technology/) (IETF)
 
 Constrained Application Protocol (CoAP) is a software protocol intended to be used in very simple electronics devices that allows them to communicate interactively over the Internet. - [Wikipedia](https://en.wikipedia.org/wiki/Constrained_Application_Protocol)
 
