@@ -2,7 +2,7 @@
 
 <img src="img/iot.png" align="right" width="75px">
 
-> A curated list of awesome Internet of Things projects and resources.
+> A curated list of awesome Internet of Things hardware, software and protocols.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing and [HQarroum](https://github.com/HQarroum/awesome-iot) awesome list.
 
