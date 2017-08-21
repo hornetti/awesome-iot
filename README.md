@@ -342,7 +342,7 @@ Simple, clean and engaging HTML5 based JavaScript charts. Chart.js is an easy wa
 
 #### <img width="40px" src="https://www.worldoweb.co.uk/wp-content/uploads/google_charts.jpg"/> - [Google Charts](https://developers.google.com/chart/)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Google Charts is a free service. Google Charts have reasonable defaults, but can also be customized in countless ways. Sometimes chart creators have an image of that perfect chart in their head, and it can sometimes be tough figuring out which set of options are needed.
 
 ## Resources
 
