@@ -2,15 +2,9 @@
 
 <img src="img/iot.png" align="right" width="75px">
 
-> A curated list of awesome Internet of Things hardware, software and protocols.
+> A curated list of awesome Internet of Things.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing and [HQarroum](https://github.com/HQarroum/awesome-iot) awesome list.
-
-> Simliar Projects
-
-- Awesome Azure IoT - A curated list of awesome Azure Internet of Things projects and resources.
-- Awesome Android Things - A curated list of awesome Android Things tutorials, libraries and much more at one place
-- Awesome OpenIoT - A curated list of awesome open source IoT frameworks, libraries and software.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
 
@@ -27,6 +21,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing an
 - [Dashboard](#dashboard)
 - [DataVisualization](#datavisualization)
 - [Resources](#resources)
+  - [Similar Project](#similar-project)
   - [Books](#books)
   - [Articles](#articles)
   - [Papers](#papers)
@@ -345,6 +340,13 @@ Simple, clean and engaging HTML5 based JavaScript charts. Chart.js is an easy wa
 Google Charts is a free service. Google Charts have reasonable defaults, but can also be customized in countless ways. Sometimes chart creators have an image of that perfect chart in their head, and it can sometimes be tough figuring out which set of options are needed.
 
 ## Resources
+
+### Similar Projects
+
+- [HQarroum/awesome-iot](https://github.com/HQarroum/awesome-iot) -  A curated list of awesome Internet of Things projects and resources.
+- [phodal/awesome-iot](https://github.com/phodal/awesome-iot) - Awesome IoT. A collaborative list of great resources about IoT Framework, Library, OS, Platform.
+- [phodal/awesome-iot-projects](https://github.com/phodal/awesome-iot-projects) - Awesome IoT Projects. A collaborative list of great resources about IoT Demos.
+- [Agile-IoT/awesome-open-iot](https://github.com/Agile-IoT/awesome-open-iot) - A curated list of awesome open source IoT frameworks, libraries and software.
 
 ### Books
 
