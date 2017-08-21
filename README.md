@@ -21,7 +21,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Dashboard](#dashboard)
 - [DataVisualization](#datavisualization)
 - [Resources](#resources)
-  - [Similar Project](#similar-project)
+  - [Similar Projects](#similar-projects)
   - [Books](#books)
   - [Articles](#articles)
   - [Papers](#papers)
