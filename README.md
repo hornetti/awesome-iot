@@ -8,9 +8,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing an
 
 > Simliar Projects
 
-> Awesome Azure IoT - A curated list of awesome Azure Internet of Things projects and resources.
-> Awesome Android Things - A curated list of awesome Android Things tutorials, libraries and much more at one place
-> Awesome OpenIoT - A curated list of awesome open source IoT frameworks, libraries and software.
+- Awesome Azure IoT - A curated list of awesome Azure Internet of Things projects and resources.
+- Awesome Android Things - A curated list of awesome Android Things tutorials, libraries and much more at one place
+- Awesome OpenIoT - A curated list of awesome open source IoT frameworks, libraries and software.
 
 ## Table of Contents
 
