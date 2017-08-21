@@ -330,7 +330,7 @@ Flot is a pure JavaScript plotting library for jQuery, with a focus on simple us
 
 #### <img width="40px" src="https://pbs.twimg.com/profile_images/429245757388902400/pptlXTHN_400x400.png"/> - [amCharts](https://www.amcharts.com/)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+JavaScript / HTML5 charts and maps data-viz libraries for web sites and applications. Fast and responsive. WordPress plugin available. Developed since 2006.
 
 #### <img width="40px" src="http://dandouglas.net/wp-content/uploads/2014/05/raphael.png"/> - [Raphael](http://dmitrybaranovskiy.github.io/raphael/)
 
