@@ -307,7 +307,7 @@ Grafana is an open source metric analytics & visualization suite. It is most com
 
 #### <img width="40px" src="https://pbs.twimg.com/profile_images/538262176134221824/Vx4_Psj1_400x400.png"/> - [Highcharts](https://www.highcharts.com/)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Highcharts is a charting library written in pure JavaScript, offering an easy way of adding interactive charts to your web site or web application.
 
 #### <img width="40px" src="https://avatars0.githubusercontent.com/u/5933884?v=4&s=400"/> - [Freeboard](http://freeboard.io/)
 
