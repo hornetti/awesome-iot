@@ -291,7 +291,7 @@ Qt is a cross-platform application framework that is used for developing applica
 
 #### <img width="40px" src="http://electric-cloud.com/wp-content/uploads/2015/02/dashing-plugin-community.gif"/> - [Dashing](http://dashing.io/)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Dashing is a Sinatra based framework that lets you build beautiful dashboards. It looks especially great on TVs.
 
 #### <img width="40px" src="https://www.totaljs.com/img/logo-totaljs.png"/> - [Total.js](https://www.totaljs.com/dashboard/)
 
